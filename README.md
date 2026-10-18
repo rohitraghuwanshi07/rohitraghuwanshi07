@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Rohit 👋</h1>
 
 <p align="center">
-  <b>Software Development · AI/ML · Data Analytics · Systems Engineering</b>
+  <b>Software Development · AI/ML · Data Analytics · Backend Developer</b>
 </p>
 
 <p align="center">
@@ -31,21 +31,6 @@ I'm interested in building practical software projects that bring together progr
 - 🖥️ Exploring operating systems and systems-level concepts.
 - 🔍 Interested in debugging, observability, and reliable applications.
 
-## Featured Projects & Explorations
-
-### 💬 Secure Persistent Group Chat
-A chat application focused on group communication and persistent message storage. The project explores the design of a communication system where messages remain available beyond a single session.
-
-### 🖥️ Rohit OS
-An operating-system-focused major project concept exploring core systems concepts and the design of a custom OS experience.
-
-### 📈 Data Analytics & Visualization
-Exploring data analysis and interactive visualization with Python, Plotly, Chart.js, and related tools to identify patterns and communicate findings clearly.
-
-### 🤖 ML-Based Product Launch Prediction
-A project concept combining historical data, pricing, product categories, and market conditions to explore product-launch prediction from a marketing analytics perspective.
-
-> Project descriptions reflect my known project interests and plans; they do not claim that every project is complete or deployed.
 
 ## Tech Stack & Tools
 
