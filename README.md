@@ -1,52 +1,80 @@
-# Hi, I'm Rohit 👋
 
-### Software Developer | AI/ML Enthusiast | Systems & Data Engineering
+<!-- Animated theme-aware GitHub profile banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Rohit Raghuvanshi — Software Development, AI/ML and Systems" src="dark.svg" width="100%">
+</picture>
 
-I'm interested in building practical software projects that combine programming, data analysis, machine learning, and systems engineering. I enjoy exploring how applications work behind the scenes, turning ideas into working prototypes, and creating tools that solve real problems.
+<h1 align="center">Hi, I'm Rohit 👋</h1>
 
-## 🚀 What I'm Working On
+<p align="center">
+  <b>Software Development · AI/ML · Data Analytics · Systems Engineering</b>
+</p>
 
-- 💬 **Secure Persistent Group Chat** — Developing a chat application focused on group communication and persistent message storage.
-- 🖥️ **Rohit OS** — Exploring operating system development and designing a systems-focused major project.
-- 📊 **Data Analytics & Visualization** — Working with data analysis and interactive visualizations to discover patterns and communicate insights.
-- 🤖 **Machine Learning for Marketing Analytics** — Exploring a product-launch prediction system that combines historical data, pricing, product categories, and market conditions.
+<p align="center">
+  <a href="https://github.com/rohitraghuwanshi07">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub profile">
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-raghuwanshi-a4077628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+  </a>
+</p>
 
-## 🛠️ Technologies & Tools
+## About Me
 
-**Languages & Programming**
+I'm interested in building practical software projects that bring together programming, data, machine learning, and systems engineering. I enjoy exploring how applications work, analyzing data, debugging technical problems, and turning ideas into working prototypes.
 
-Python · JavaScript · TypeScript
+- 💻 Interested in software development and backend engineering.
+- 🤖 Exploring AI/ML and data-driven problem solving.
+- 📊 Interested in interactive analytics and data visualization.
+- 🖥️ Exploring operating systems and systems-level concepts.
+- 🔍 Interested in debugging, observability, and reliable applications.
 
-**Frontend & Visualization**
+## Featured Projects & Explorations
 
-React · Chart.js · Plotly · Streamlit
+### 💬 Secure Persistent Group Chat
+A chat application focused on group communication and persistent message storage. The project explores the design of a communication system where messages remain available beyond a single session.
 
-**Systems & Engineering**
+### 🖥️ Rohit OS
+An operating-system-focused major project concept exploring core systems concepts and the design of a custom OS experience.
 
-Git · GitHub · OpenTelemetry · Backend Development
+### 📈 Data Analytics & Visualization
+Exploring data analysis and interactive visualization with Python, Plotly, Chart.js, and related tools to identify patterns and communicate findings clearly.
 
-**Areas of Interest**
+### 🤖 ML-Based Product Launch Prediction
+A project concept combining historical data, pricing, product categories, and market conditions to explore product-launch prediction from a marketing analytics perspective.
 
-Artificial Intelligence · Machine Learning · Data Analytics · Operating Systems · Distributed Systems · Observability
+> Project descriptions reflect my known project interests and plans; they do not claim that every project is complete or deployed.
 
-## 📌 My Approach
+## Tech Stack & Tools
 
-I believe in learning by building. I like understanding the underlying concepts, experimenting with different approaches, debugging real problems, and improving projects through practical implementation.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+</p>
 
-I'm particularly interested in the intersection of software engineering, intelligent systems, and data-driven decision-making.
-
-## 🌱 Currently Learning
+## Current Learning Interests
 
 - Operating system concepts and low-level systems engineering
 - Reliable backend and real-time application design
-- Machine learning workflows and applied analytics
-- Software observability, debugging, and performance improvement
+- Applied machine learning and marketing analytics
+- Observability, debugging, and performance improvement
 
-## 🤝 Let's Connect
+## Connect With Me
 
-I'm always interested in learning, collaborating on technical projects, and exploring new ideas in software development and AI.
+- **GitHub:** [@rohitraghuwanshi07](https://github.com/rohitraghuwanshi07)
+- **LinkedIn:** [Rohit Raghuvanshi](https://www.linkedin.com/in/rohit-raghuwanshi-a4077628a/)
 
-<!-- Add your verified profile links below when available. -->
-GitHub: https://github.com/rohitraghuwanshi07
-Linkedin: https://www.linkedin.com/in/rohit-raghuwanshi-a4077628a/
-<!-- Portfolio: YOUR_PORTFOLIO_URL -->
+---
+
+<p align="center">
+  <i>Learning by building. Improving by debugging. Growing through experimentation.</i>
+</p>
