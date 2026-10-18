@@ -1,0 +1,139 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none">
+  <title>Rohit Raghuvanshi — Neon Developer Terminal</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#020914"/>
+      <stop offset=".55" stop-color="#07182D"/>
+      <stop offset="1" stop-color="#020711"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop stop-color="#00F5C8"/>
+      <stop offset="1" stop-color="#24A8FF"/>
+    </linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#112C4A"/>
+      <stop offset="1" stop-color="#050B18"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#399DCE" stroke-opacity=".09"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round">
+      <rect width="1200" height="440" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#grid)"/>
+
+    <!-- Terminal header -->
+    <rect x="14" y="12" width="1172" height="38" rx="19" fill="#061321" stroke="#087EAA"/>
+    <circle cx="34" cy="31" r="5.5" fill="#FF5263"/>
+    <circle cx="53" cy="31" r="5.5" fill="#FFC548"/>
+    <circle cx="72" cy="31" r="5.5" fill="#00DBA5"/>
+    <path d="M98 19V43" stroke="#15516C"/>
+    <text x="114" y="36" fill="#00F5C8" font-family="monospace" font-size="13" font-weight="bold">rohitraghuwanshi07@github:~</text>
+    <text x="415" y="36" fill="#8FB9E8" font-family="monospace" font-size="12">|  Building  |  Learning  |  Exploring</text>
+    <text x="1164" y="36" text-anchor="end" fill="#36BFFF" font-family="monospace" font-size="11">KEEP GOING...</text>
+
+    <!-- Name and tagline -->
+    <text x="34" y="111" fill="url(#neon)" font-family="monospace" font-size="43" font-weight="bold">&gt;_ Rohit</text>
+    <text x="298" y="111" fill="#F1F7FF" font-family="monospace" font-size="43" font-weight="bold">Raghuvanshi</text>
+    <text x="37" y="143" fill="#42E6DB" font-family="monospace" font-size="16">Software Developer  |  AI/ML Enthusiast  |  Data Analytics</text>
+    <rect x="38" y="158" width="55" height="3" rx="1.5" fill="#00F5C8" filter="url(#glow)">
+      <animate attributeName="width" values="30;75;30" dur="3s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Skills panel -->
+    <text x="38" y="194" fill="#00F5C8" font-family="monospace" font-size="14">&lt;/&gt; SKILLS &amp; INTERESTS</text>
+    <path d="M39 210V369" stroke="#00CDB9" stroke-width="2"/>
+    <g font-family="monospace" font-size="13" fill="#A7D4FF">
+      <text x="57" y="232" fill="#42CFFF">&lt;/&gt;</text>
+      <text x="88" y="232">Programming &amp; Development</text>
+      <text x="57" y="260" fill="#42CFFF">▤</text>
+      <text x="88" y="260">Data Analytics</text>
+      <text x="57" y="288" fill="#42CFFF">▥</text>
+      <text x="88" y="288">Visualization</text>
+      <text x="57" y="316" fill="#42CFFF">⚙</text>
+      <text x="88" y="316">Backend Development</text>
+      <text x="57" y="344" fill="#42CFFF">▣</text>
+      <text x="88" y="344">Operating Systems</text>
+      <text x="57" y="372" fill="#42CFFF">⌘</text>
+      <text x="88" y="372">Machine Learning &amp; AI</text>
+    </g>
+
+    <!-- Terminal window -->
+    <rect x="350" y="168" width="330" height="218" rx="12" fill="#020C18" stroke="#00DCCB"/>
+    <circle cx="371" cy="185" r="4.5" fill="#FF5263"/>
+    <circle cx="386" cy="185" r="4.5" fill="#FFC548"/>
+    <circle cx="401" cy="185" r="4.5" fill="#00DBA5"/>
+    <text x="366" y="215" fill="#00F5C8" font-family="monospace" font-size="12">$ whoami</text>
+    <text x="366" y="234" fill="#D5E9FF" font-family="monospace" font-size="12">Rohit Raghuvanshi</text>
+    <text x="366" y="260" fill="#00F5C8" font-family="monospace" font-size="12">$ interests --list</text>
+    <g font-family="monospace" font-size="11.5" fill="#A7D4FF">
+      <text x="367" y="280">&gt; Python</text>
+      <text x="367" y="297">&gt; Data Analytics</text>
+      <text x="367" y="314">&gt; Visualization</text>
+      <text x="367" y="331">&gt; Software Engineering</text>
+      <text x="367" y="348">&gt; Operating Systems</text>
+    </g>
+    <text x="366" y="371" fill="#00F5C8" font-family="monospace" font-size="11">$ status: learning by building</text>
+    <rect x="641" y="361" width="7" height="12" fill="#00F5C8">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Stylized coding workspace -->
+    <rect x="703" y="70" width="294" height="309" rx="12" fill="#061321" stroke="#124D76"/>
+    <rect x="717" y="84" width="266" height="166" rx="5" fill="#071C35" stroke="#1B6DA1"/>
+    <path d="M729 95H970" stroke="#28628B"/>
+    <circle cx="730" cy="90" r="2" fill="#00F5C8"/>
+    <g stroke="#0E5687" stroke-opacity=".7">
+      <path d="M735 109H967M735 132H967M735 155H967M735 178H967M735 201H967M735 224H967"/>
+      <path d="M756 104V239M785 104V239M814 104V239M843 104V239M872 104V239M901 104V239M930 104V239"/>
+    </g>
+    <g stroke="#00DCCB" stroke-width="1.5" fill="none">
+      <path d="M742 221L771 193L801 201L830 166L859 177L889 137L920 153L951 116"/>
+      <path d="M742 221L771 193L801 201L830 166L859 177L889 137L920 153L951 116" stroke-dasharray="120" stroke-dashoffset="120">
+        <animate attributeName="stroke-dashoffset" values="120;0" dur="3s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <rect x="741" y="262" width="218" height="6" rx="3" fill="#16334E"/>
+    <rect x="741" y="262" width="142" height="6" rx="3" fill="url(#neon)">
+      <animate attributeName="width" values="80;170;80" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <path d="M725 287H976L994 311H707Z" fill="url(#desk)" stroke="#1B668E"/>
+    <path d="M740 293H960M748 301H952" stroke="#1476A3" stroke-opacity=".7"/>
+    <rect x="814" y="316" width="72" height="7" rx="3.5" fill="#0C2A43"/>
+    <text x="850" y="350" fill="#00DCCB" font-family="monospace" font-size="12" text-anchor="middle">CODE / DEBUG / REPEAT</text>
+
+    <!-- Tech stack card -->
+    <rect x="1015" y="70" width="171" height="309" rx="12" fill="#051321" stroke="#00A6CE"/>
+    <text x="1030" y="96" fill="#42CFFF" font-family="monospace" font-size="13" font-weight="bold">TECH STACK</text>
+    <path d="M1030 106H1171" stroke="#17445F"/>
+    <g font-family="monospace" font-size="11">
+      <text x="1030" y="130" fill="#00F5C8">Languages</text>
+      <text x="1030" y="148" fill="#B7D9FF">Python</text>
+      <text x="1030" y="164" fill="#B7D9FF">JavaScript</text>
+      <text x="1030" y="180" fill="#B7D9FF">TypeScript</text>
+      <text x="1030" y="208" fill="#00F5C8">Frontend / Charts</text>
+      <text x="1030" y="226" fill="#B7D9FF">React</text>
+      <text x="1030" y="242" fill="#B7D9FF">Plotly</text>
+      <text x="1030" y="258" fill="#B7D9FF">Streamlit</text>
+      <text x="1030" y="286" fill="#00F5C8">Tools</text>
+      <text x="1030" y="304" fill="#B7D9FF">Git / GitHub</text>
+      <text x="1030" y="320" fill="#B7D9FF">OpenTelemetry</text>
+      <text x="1030" y="350" fill="#668BAB">BUILD WITH PURPOSE</text>
+    </g>
+
+    <!-- Footer -->
+    <rect x="14" y="399" width="1172" height="29" rx="14.5" fill="#03101E" stroke="#087EAA"/>
+    <text x="32" y="418" fill="#00F5C8" font-family="monospace" font-size="12">github.com/rohitraghuwanshi07</text>
+    <text x="382" y="418" fill="#76B9FF" font-family="monospace" font-size="12">linkedin.com/in/rohit-raghuwanshi-a4077628a</text>
+    <text x="1167" y="418" text-anchor="end" fill="#42E6DB" font-family="monospace" font-size="11">CODE • DATA • BUILD • GROW</text>
+  </g>
+</svg>
