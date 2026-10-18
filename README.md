@@ -2,7 +2,6 @@
 <!-- Animated theme-aware GitHub profile banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
   <img alt="Rohit Raghuvanshi — Software Development, AI/ML and Systems" src="dark.svg" width="100%">
 </picture>
 
