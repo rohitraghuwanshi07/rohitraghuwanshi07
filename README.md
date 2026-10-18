@@ -1,6 +1,9 @@
-
 <p align="center">
-  <img src="banner.svg" alt="Rohit Raghuvanshi — Developer Profile" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img src="dark.svg" alt="Rohit Raghuvanshi — Developer Profile" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Rohit Raghuvanshi</h1>
