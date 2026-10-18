@@ -43,7 +43,7 @@
 
     <!-- Name and tagline -->
     <text x="34" y="111" fill="url(#neon)" font-family="monospace" font-size="43" font-weight="bold">&gt;_ Rohit</text>
-    <text x="298" y="111" fill="#F1F7FF" font-family="monospace" font-size="43" font-weight="bold">Raghuvanshi</text>
+    <text x="298" y="111" fill="#F1F7FF" font-family="monospace" font-size="43" font-weight="bold">Raghuwanshi</text>
     <text x="37" y="143" fill="#42E6DB" font-family="monospace" font-size="16">Software Developer  |  AI/ML Enthusiast  |  Data Analytics</text>
     <rect x="38" y="158" width="55" height="3" rx="1.5" fill="#00F5C8" filter="url(#glow)">
       <animate attributeName="width" values="30;75;30" dur="3s" repeatCount="indefinite"/>
@@ -73,7 +73,7 @@
     <circle cx="386" cy="185" r="4.5" fill="#FFC548"/>
     <circle cx="401" cy="185" r="4.5" fill="#00DBA5"/>
     <text x="366" y="215" fill="#00F5C8" font-family="monospace" font-size="12">$ whoami</text>
-    <text x="366" y="234" fill="#D5E9FF" font-family="monospace" font-size="12">Rohit Raghuvanshi</text>
+    <text x="366" y="234" fill="#D5E9FF" font-family="monospace" font-size="12">Rohit Raghuwanshi</text>
     <text x="366" y="260" fill="#00F5C8" font-family="monospace" font-size="12">$ interests --list</text>
     <g font-family="monospace" font-size="11.5" fill="#A7D4FF">
       <text x="367" y="280">&gt; Python</text>
